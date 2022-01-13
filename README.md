@@ -1,2 +1,2 @@
 # spam_classifier
-Spam classifier using multinomial naive bayes
+Spam classifier using many algorithm and compare there performance
